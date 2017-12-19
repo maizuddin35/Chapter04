@@ -13,5 +13,7 @@ cout << <<endl;
 cout << <<endl;
 cin >> num1;
 
+return 0;
 
+}
 
